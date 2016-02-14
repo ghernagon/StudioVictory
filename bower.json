@@ -1,0 +1,28 @@
+{
+  "name": "StudioVictory",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Gerardo Hernández <ghernagon@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AngularJS": "angular-latest#^1.5.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "lodash": "^4.3.0",
+    "normalize-css": "^3.0.3",
+    "requirejs": "^2.1.22"
+  }
+}
